@@ -1,0 +1,47 @@
+-> model = LanguageModel(context_length=256, n_head=12, head_size=126, head_output_dim=126, n_embed=512, n_hidden=4*512, n_blocks=4) 
+-> # 21.45M [best@4.0k] 1.43|1.44 <datasx50> [best@8k] 1.32|1.33 [best@12k]
+-> res = train(model, n_iterations=4000, learning_rate=1e-3, eval_interval=500, eval_iters=100, autoStop=True)
+-> res = train(model, n_iterations=4000, learning_rate=1e-3, eval_interval=500, eval_iters=100, autoStop=True)
+-> generate(model, model.context_length, new_tokens=2000, topk=25, fromRandom=True)
+y closer.
+"Well done, Nino!" Denny said with pride. Ninobody told her to be flying in the cart too.
+From then on, the star takes off by herself and turned to their tapes and many things. She carefully took off a sneath her back. As the snack, a few days left, it started to mirry!
+The friends were so pointy, so Ollie looked down at her calm disch. Her friends were surprised. She asked Terie if she wanted to make it faster.
+"Don't worry - herself, 2," she said, "teisk you can. I can stay here if you can make your best."
+Peter was so discovered her best friend â€œYes, I will.â€
+The friends worked hard and hard to make her trouble. She looked for the calm statue, but there was nothing much bigger. She was sad.
+They both looked at each other and had trouble many heals. Finally, they found the calm pattern of the water on the corner of a mirror. Then they both smiled.
+Terie felt better. She gave Terie some water and sparkled in a cool water. The water sparkled in a spring sparkling ball! Patterns were calm and Calm, ball!
+But one calm Pattern had other balloons! His dad discovered tiny box was falling.
+They reached the tree first to get it back on the ground. That days were box calming more.
+Patterns were safe and refreshing. As they watched, Patterns watered it carefully. But Sammy smiled at the box.
+Patterns were trying back to the watern in the forest, and suddenly crashed up with a few other balloons. They began to spill, spilling the water balloons at each other and move. Patterns mum cooked a band-aid crown!
+Sammy was embarrassed and sad. But he knew that this Wattern was okay! Sammy felt better connectionly - a spaghetti. He quickly ran back home, remembering the special one.
+§
+Tom and Lily were going on a walk with their mom and dad. They had a big tea party in the car. The sun was shiny and made a badget in the sky.
+"Come on, Lily, it is time to go home. It will rot nice on your speed back."
+Tom and Lily looked at the sun. The sun was bright and yellow. It looked at their cars. Their mom watched them. She saw them and smiled.
+"Look what we found!" mom said. "You are very upset, Tom, you will apologize without a dance. And you don't want to lose your cars anymore."
+Lily and Tom nodded. They liked to dance in the television. They ran to the trampoline, feeling sad.
+"Don't worry, mom," dad said. "We think about the man. He will be careful, but he might get you checked in front of us."
+Tom and Lily thought for a moment. They did not know about the sun at us and the rain. They did not want to make the ball fall.
+She grabbed the man's car. "The cars will get work."
+Tom drove fast. But the lady helped them quickly. She was scared. She ran to the sink and threw it in the air.
+Mama heard the noise and came to the televise. She saw the lights bait on the hot and floating. It was getting cold and wet.
+"Tom, Lily, it's not wet outside. It's dirty. You can't breathe on the ground.
+Lily shouted, "Tom, Tom, here are gotting the rain. He wants wet."
+Mama repeated. "Stop, Lily, watches. The rain peeps fly up in the air. There is no sky. It's cold and water. I'm here flying." Ben said. He got up gently.
+Lily tried to get out of the rain. But there was a scary spade. She felt angry and painted. She ran to her house and breathed in paint. She cried and cried.
+"Mex, I'm scared. He missing his coat. He was missing. He was sorry. He ran away. He ran away.
+Max stops back. He wanted to play. He peek in his room. He said, "Oh no! My coat is bad."
+They ran to the woods. They ran away from the closet. They hid behind the couch. They were sad and cried. The drops was broken. They had lost a basket. They were ruined.
+They heard a loud noise. They saw their holes. They felt scared and hurt. They cried.
+"Maybe you need a quiet push. Maybe it spilled some water," Max said. "The water is not dry. My coat is not bad."
+Then, they heard a loud noise. The noise got bigger than the woods. Mom saw the water. She ran to the door.
+"Come on, let's go in, sorry!" Mom said.
+"OK, Max. Max lost the water. He did not want to go in!" Mom said. "No, not hurt your coat because it was too hot. My coat is bad."
+Lily and Max hugged their bloods. They said sorry to Mom. They said sorry to Mom.
+"Mom, Max, stop!" Lily and Max said.
+Mom was kind and gentle. She said they should not speak in front of their coat and shove.
+§
+A little girl wanted to ride a bike. So, Ma
